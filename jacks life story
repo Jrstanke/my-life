@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Life Story</title>
+</head>
+<body>
+
+    <h1>My Life Story</h1>
+    
+    <p>Hi there! My name is Jack Stankey, and I'd love to share a bit about myself.</p>
+    
+    <h2>Background</h2>
+    <p>I was born and raised in Garden City,NY, where I attended Garden City High School. After graduating, I moved to Syracuse to pursue my studies at Newhouse], where I'm currently majoring in BDJ. </p>
+    
+    <h2>Hobbies and Interests</h2>
+    <p>I have always tried my best to be a good student, but when not studying, I love to find myself on a golf course. I love spending time with friends and family, and enjoy going down to Miami to visit my dad.:</p>
+    
+    <h2>Work Experience</h2>
+    <p>Throughout my life, I've had the opportunity to work in a variety of roles. From part-time jobs during high school to internships during college, each experience has contributed to my personal and professional growth. I have worked many jobs, including being a pizza delivery driver and working as host at restaurants as well.</p>
+    
+    <h2>Story of Me on Storymap</h2>
+    <p>Check out the <a href="https://storymap.knightlab.com/">Story of Me</a> on Storymap!</p>
+    <iframe></src="https://uploads.knightlab.com/storymapjs/ce399d0228600f7cddfedb262e5716cc/jacks-life/index.html" frameborder="0" width="100%" height="800"></iframe>
+
+</body>
+</html>
